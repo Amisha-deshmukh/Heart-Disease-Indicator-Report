@@ -71,6 +71,7 @@ Users can filter the data by:
 
 
 **Dashboard Screenshot:**
+
 ![Heart Disease Indicators Report](https://github.com/user-attachments/assets/8200ed57-933e-41ea-a62a-ec9a2e8fb17c)
 
 **Links**
