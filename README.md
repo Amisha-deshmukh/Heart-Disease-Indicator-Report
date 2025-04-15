@@ -33,41 +33,41 @@ Data Cleaning: handled within Power BI using Power Query
 
 • KPI Cards:
 
-   • Average BMI: 28.44
+       • Average BMI: 28.44
 
-   • Average Sleep Time: 7.08 hours
+       • Average Sleep Time: 7.08 hours
 
-   • Positive Patients: 27K
+       • Positive Patients: 27K
 
-   • High Risk Patients: 33K
+       • High Risk Patients: 33K
 
 •Demographic Filters:
 
 Users can filter the data by:
 
-   • Gender
+       • Gender
 
-   • Heart Disease status
+       • Heart Disease status
 
-   • Age Group (Young, Middle, Older)
+       • Age Group (Young, Middle, Older)
 
-   • Race
+       • Race
 
-   • Asthma, Kidney Disease
+       • Asthma, Kidney Disease
 
-   • Risk Level (High/Low)
+       • Risk Level (High/Low)
 
 • Visual Insights:
 
-   • People by Age Group (Pie Chart)
+       • People by Age Group (Pie Chart)
 
-   • Average BMI by Physical Health and Physical Activity (Bar Chart)
+       • Average BMI by Physical Health and Physical Activity (Bar Chart)
 
-   • General Health vs Smoking Status (Horizontal Bar Chart)
+       • General Health vs Smoking Status (Horizontal Bar Chart)
 
-   • Heart Disease Count by Diabetic Status (Donut Chart)
+       • Heart Disease Count by Diabetic Status (Donut Chart)
 
-   • Average BMI and Sleep Time by Mental Health (Line/Area Chart)
+       • Average BMI and Sleep Time by Mental Health (Line/Area Chart)
 
 
 **Dashboard Screenshot:**
