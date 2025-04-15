@@ -17,17 +17,17 @@ Data Cleaning: handled within Power BI using Power Query
 
 🔍 **Key Insights:**
 
-• Average BMI across all patients is 28.44, with an average sleep time of 7.08 hours.
+     • Average BMI across all patients is 28.44, with an average sleep time of 7.08 hours.
 
-• Out of the total population, 27K are diagnosed with heart disease, and 33K are marked as high-risk.
+     • Out of the total population, 27K are diagnosed with heart disease, and 33K are marked as high-risk.
 
-• The largest age group in the dataset is Older Age, followed by Middle Age and Young Age.
+     • The largest age group in the dataset is Older Age, followed by Middle Age and Young Age.
 
-• Physically active individuals tend to have a slightly lower BMI than those who are inactive.
+     • Physically active individuals tend to have a slightly lower BMI than those who are inactive.
 
-• People with poor general health and who smoke have a higher count of heart disease cases.
+     • People with poor general health and who smoke have a higher count of heart disease cases.
 
-• Mental health issues correlate with changes in both average BMI and sleep time.
+     • Mental health issues correlate with changes in both average BMI and sleep time.
 
 📊 **Key Features:**
 
