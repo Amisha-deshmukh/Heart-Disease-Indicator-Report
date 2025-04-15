@@ -9,11 +9,11 @@ This Power BI dashboard project analyzes a dataset containing health-related att
 
 🛠 **Tools & Technologies:**
 
-Power BI: for building the interactive dashboard
+   • Power BI: for building the interactive dashboard
 
-DAX: for creating calculated fields and measures
+   • DAX: for creating calculated fields and measures
 
-Data Cleaning: handled within Power BI using Power Query
+   • Data Cleaning: handled within Power BI using Power Query
 
 🔍 **Key Insights:**
 
@@ -31,7 +31,7 @@ Data Cleaning: handled within Power BI using Power Query
 
 📊 **Key Features:**
 
-• KPI Cards:
+• **KPI Cards:**
 
        • Average BMI: 28.44
 
@@ -41,7 +41,7 @@ Data Cleaning: handled within Power BI using Power Query
 
        • High Risk Patients: 33K
 
-•Demographic Filters:
+• **Demographic Filters:**
 
 Users can filter the data by:
 
@@ -57,7 +57,7 @@ Users can filter the data by:
 
        • Risk Level (High/Low)
 
-• Visual Insights:
+• **Visual Insights:**
 
        • People by Age Group (Pie Chart)
 
